@@ -1,0 +1,54 @@
+body {
+  /*font-family: "Barriecito", cursive;
+  font-family: "Cabin Sketch", cursive;
+  font-family: "Chelsea Market", cursive;
+  font-family: "Grandstander", cursive;
+  font-family: "Nunito", sans-serif;
+  font-family: "Sniglet", cursive;*/
+  font-family: "Special Elite", cursive;
+  /*font-family: "Titillium Web", sans-serif;
+  font-family: "Ubuntu", sans-serif;
+  font-family: "Varela Round", sans-serif;
+  min-height: 2000px;*/
+}
+
+h1,
+h2,
+h3 {
+  font-family: Nunito, "Special Elite", cursive;
+  text-shadow: 0 0 2px;
+  /*text-align: center;*/
+}
+h1 {
+  letter-spacing: -5px;
+}
+
+p {
+  font-family: Nunito, Ubuntu, "Special Elite", cursive;
+  font-weight: 200;
+  line-height: 1.3;
+  /*font-size: larger;*/
+  text-shadow: 0 0 1.2px;
+}
+
+a {
+  text-shadow: 0 0 1.5px;
+}
+
+.container {
+  font-family: Nunito, cursive;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #eedfff;
+  text-align: center;
+}
+
+#projects {
+  background-color: #eedfff;
+}
+
+section {
+  padding-top: 5rem;
+}
